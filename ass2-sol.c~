@@ -1,4 +1,12 @@
+/*******************************************************************************
+  Program to plan robot routes in grids with blocks.
 
+  Refer to the assignment handout for full details of input, processing, 
+  and output requirements here:
+  https://people.eng.unimelb.edu.au/apolyvyanyy/teaching/comp10002/2019s2/ass2/
+
+   Written by Artem Polyvyanyy, artem.polyvyanyy@unimelb.edu.au, October 2019.
+*******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
